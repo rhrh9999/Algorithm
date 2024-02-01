@@ -27,9 +27,9 @@ int main() {
 
     //4
     int people = seat.size();
-    //cout << "people¼ö : " << people;
-    if (cup <= people) cout << cup << '\n';
+    cout << min(cup, people);
+    /*if (cup <= people) cout << cup << '\n';
     else cout << people << '\n';
-    
+    */
     return 0;
 }
