@@ -43,4 +43,9 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <Xml Include="testmethod.snippet">
+      <Filter>소스 파일</Filter>
+    </Xml>
+  </ItemGroup>
 </Project>
